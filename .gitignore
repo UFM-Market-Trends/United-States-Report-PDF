@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 DATAWRAPPER_API_TOKEN.txt
+FRED_API_KEY.txt
+
