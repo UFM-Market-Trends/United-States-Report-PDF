@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+DATAWRAPPER_API_TOKEN.txt
